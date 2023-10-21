@@ -1,5 +1,5 @@
 from pytube import YouTube
-url = "https://youtu.be/SJ79Z0nn2x4?si=EcJqTUuQeqmcnuXC"
+url = "Enter youtube url here"
 my_video = YouTube(url)
 
 print(my_video.title)
